@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaiuate", "..\Evaiuate\Eva
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summ", "..\Summ\Summ.csproj", "{3007C382-AF82-4C90-AB95-2101BC8CF09C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "..\Difference\Difference.csproj", "{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "..\Difference\Difference.csproj", "{16099693-4743-4A23-A297-5D058450E2F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{3007C382-AF82-4C90-AB95-2101BC8CF09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3007C382-AF82-4C90-AB95-2101BC8CF09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3007C382-AF82-4C90-AB95-2101BC8CF09C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16099693-4743-4A23-A297-5D058450E2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16099693-4743-4A23-A297-5D058450E2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16099693-4743-4A23-A297-5D058450E2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16099693-4743-4A23-A297-5D058450E2F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
