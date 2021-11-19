@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\bin\Debug\netcoreapp3.1\Summ.deps.json
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\bin\Debug\netcoreapp3.1\Summ.dll
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\bin\Debug\netcoreapp3.1\Summ.pdb
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\obj\Debug\netcoreapp3.1\Summ.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\obj\Debug\netcoreapp3.1\Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\obj\Debug\netcoreapp3.1\Summ.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\obj\Debug\netcoreapp3.1\Summ.AssemblyInfo.cs
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\obj\Debug\netcoreapp3.1\Summ.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\obj\Debug\netcoreapp3.1\Summ.dll
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Summ\obj\Debug\netcoreapp3.1\Summ.pdb

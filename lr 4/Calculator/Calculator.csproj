@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Difference\Difference.csproj" />
     <ProjectReference Include="..\Evaiuate\Evaiuate.csproj" />
+    <ProjectReference Include="..\Summ\Summ.csproj" />
   </ItemGroup>
 
   <ItemGroup>

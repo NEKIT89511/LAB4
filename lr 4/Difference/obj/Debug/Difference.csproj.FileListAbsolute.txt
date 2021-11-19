@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Difference\bin\Debug\Difference.dll
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Difference\bin\Debug\Difference.pdb
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Difference\obj\Debug\Difference.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Difference\obj\Debug\Difference.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Difference\obj\Debug\Difference.dll
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Difference\obj\Debug\Difference.pdb

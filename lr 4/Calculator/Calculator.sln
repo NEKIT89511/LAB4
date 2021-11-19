@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaiuate", "..\Evaiuate\Evaiuate.csproj", "{DC80F37F-F4A9-40CC-B629-90660674677B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summ", "..\Summ\Summ.csproj", "{3007C382-AF82-4C90-AB95-2101BC8CF09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "..\Difference\Difference.csproj", "{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DC80F37F-F4A9-40CC-B629-90660674677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC80F37F-F4A9-40CC-B629-90660674677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC80F37F-F4A9-40CC-B629-90660674677B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3007C382-AF82-4C90-AB95-2101BC8CF09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3007C382-AF82-4C90-AB95-2101BC8CF09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3007C382-AF82-4C90-AB95-2101BC8CF09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3007C382-AF82-4C90-AB95-2101BC8CF09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D3B8CC-9D12-42CF-BC28-3EDC27F3CEA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Evaiuate\bin\Debug\Evaiuate.dll
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Evaiuate\bin\Debug\Evaiuate.pdb
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Evaiuate\obj\Debug\Evaiuate.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Evaiuate\obj\Debug\Evaiuate.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Evaiuate\obj\Debug\Evaiuate.dll
+C:\Users\hp\Desktop\вся домашка\git\lr 4\Evaiuate\obj\Debug\Evaiuate.pdb
