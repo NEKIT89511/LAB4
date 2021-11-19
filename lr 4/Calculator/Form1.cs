@@ -1,13 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Evaiuate;
+using Summ;
 
 namespace Calculator
 {
@@ -25,6 +18,16 @@ namespace Calculator
             double number2 = Convert.ToDouble(textBox2.Text);
             double res = Evaiuate.Evaiuate.del(number1, number2);
             label3.Text = Convert.ToString(res);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "+";
+            double number1 = Convert.ToDouble(textBox1.Text);
+            double number2 = Convert.ToDouble(textBox2.Text);
+            double res = Summ.Summ.sum(number1, number2);
+            label3.Text = Convert.ToString(res);
+
         }
     }
 }
